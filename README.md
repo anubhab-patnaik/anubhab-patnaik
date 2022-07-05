@@ -9,6 +9,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=anubhab-patnaik">
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=codebotx&layout=compact&hide=html&theme=graywhite)
+![Github stats](https://github-readme-stats.vercel.app/api?username=anubhab-patnaik&layout=compact&hide=html&theme=graywhite)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codebotx&layout=compact&theme=graywhite)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anubhab-patnaik&layout=compact&theme=graywhite)
