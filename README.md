@@ -1,5 +1,5 @@
 - 👋 Hi, I’m [@anubhab-patnaik](https://github.com/codebotx)
-- 👀 I’m a full stack python react developer.
+- 👀 I’m a full stack blockchain developer.
 - 🌱 I’m currently working with [Squbix Digital](https://squbix.com/) ... 
 
 * [LinkedIn](https://www.linkedin.com/in/anubhabpatnaik0530/) 
