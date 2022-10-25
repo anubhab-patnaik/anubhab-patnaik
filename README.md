@@ -4,8 +4,8 @@
 
 * [LinkedIn](https://www.linkedin.com/in/anubhabpatnaik0530/) 
 * [Personal Github](https://www.github.com/codebotx)
-* [Profile](https://anubhavp.me)
-* [Blog](https://anubhavp.me/blog)
+* [Profile](https://anubhavp.dev)
+* [Blog](https://anubhavp.dev/blog)
 
 <img src="https://komarev.com/ghpvc/?username=anubhab-patnaik">
 
